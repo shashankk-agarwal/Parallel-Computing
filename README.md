@@ -1,1 +1,1 @@
-# CS633-2020-21-2
+It contains all the assignments of course CS633. Please refer to the readme of each assignment to know how it works.
